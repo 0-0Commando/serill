@@ -16,11 +16,13 @@
     justify-content: center;
     align-items: center;
     margin-top: 19px;
+    gap: 40px;
 }
 .menu a {
     text-decoration: none;
-    color: black;
     transition: .2s all ease;
+    color: black;
+    position: relative;
 }
 
 .menu-element {
@@ -28,11 +30,6 @@
     font-size: 15px;
     font-weight: 400;
     letter-spacing: 0.2px;
-    margin-right: 40px;
-}
-.menu-element:hover a{
-    color: #F01C61;
-    cursor: pointer;
 }
 
 .logo {
@@ -50,10 +47,6 @@
     border-radius: 50%;
     animation: pulsation 4s linear infinite;
     transition: .5s all ease;
-}
-
-.planet:hover{
-    transform: rotate(-30deg);
 }
 
 .ogrizok {
