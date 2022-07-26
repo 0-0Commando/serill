@@ -49,6 +49,11 @@
 .planet {
     border-radius: 50%;
     animation: pulsation 4s linear infinite;
+    transition: .5s all ease;
+}
+
+.planet:hover{
+    transform: rotate(-30deg);
 }
 
 .ogrizok {
