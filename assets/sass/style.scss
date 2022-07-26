@@ -27,8 +27,9 @@ $page-size:738px;
     width: 499px;
     z-index: 28;
     position: absolute;
-    left: 35.5%;
-    top: 15%;
+    left: 50%;
+    top: 50%;
+    transform:translate(-50%, -50%);
 }
 
 .circle{
@@ -71,14 +72,8 @@ $page-size:738px;
 }
 
 
-$page-size:768px;
 
 
 
 
-.main-page{
-    width: 100%;
-    height: $page-size;
-    background: #999999;
 
-}
