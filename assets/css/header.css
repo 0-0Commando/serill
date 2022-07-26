@@ -45,3 +45,18 @@
     font-size: 28px;
     font-weight: 700;
 }
+
+
+.planet {
+    border-radius: 50%;
+    animation-name: pulsation;
+    animation-duration: 4s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+
+@keyframes pulsation {
+    50%{
+        box-shadow: 0 0 20px #f01f6896;
+    }
+}
