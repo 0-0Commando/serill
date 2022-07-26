@@ -1,0 +1,11 @@
+@keyframes pulsation_ogrizok {
+    50%{
+        box-shadow: 2px 2px 20px #f01f6896;
+    }
+}
+
+@keyframes pulsation {
+    50%{
+        box-shadow: 0 0 20px #f01f6896;
+    }
+}

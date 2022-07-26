@@ -31,7 +31,7 @@
     margin-right: 40px;
 }
 .menu-element:hover a{
-    color: #FD8558;
+    color: #F01C61;
     cursor: pointer;
 }
 
@@ -51,8 +51,7 @@
     animation: pulsation 4s linear infinite;
 }
 
-@keyframes pulsation {
-    50%{
-        box-shadow: 0 0 20px #f01f6896;
-    }
+.ogrizok {
+    border-radius: 0 0 100% 0;
+    animation: pulsation_ogrizok 4s linear infinite;
 }
