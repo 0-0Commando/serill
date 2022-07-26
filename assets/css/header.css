@@ -1,5 +1,47 @@
+.header {
+    width: 100%;
+    height: 840px;
+}
+
+.menu-block {
+    width: 100%;
+    background-color: white;
+    height: 74px;
+}
+
 .menu {
     width: 100%;
-    height: 74px;
     display: flex;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+    margin-top: 19px;
+}
+.menu a {
+    text-decoration: none;
+    color: black;
+    transition: .2s all ease;
+}
+
+.menu-element {
+    font-family: Poppins;
+    font-size: 15px;
+    font-weight: 400;
+    letter-spacing: 0.2px;
+    margin-right: 40px;
+}
+.menu-element:hover a{
+    color: #FD8558;
+    cursor: pointer;
+}
+
+.logo {
+    position: absolute;
+    line-height: 45px;
+    height: 45px;
+    left: 6%;
+    top: 7.5px;
+    font-family: Poppins;
+    font-size: 28px;
+    font-weight: 700;
 }
