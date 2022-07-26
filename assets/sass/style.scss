@@ -16,7 +16,7 @@ $page-size:768px;
 .main-page{
     width: 100%;
     height:85% ;
-    background: rgba(37, 37, 38, 0.918);
+    background: #131313;
     display: flex;
     z-index: 99;
     position: relative;
@@ -37,9 +37,13 @@ $page-size:768px;
     width: 499px;
     z-index: 29;
     position: absolute;
+    border-radius: 50%;
     left: 52%;
     top: 45%;
     transform:translate(-50%, -50%);
+    border-radius: 50%;
+    border-color: aliceblue;
+    border: 2px;
 }
 
 .planet{
