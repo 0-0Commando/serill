@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-{"version":3,"sourceRoot":"","sources":["style.scss"],"names":[],"mappings":"AAAQ;AAIR;EACI;EACA;EACA;;;AAGJ;EACI;EACA;;;AAGJ;EACI;EACA;EACA;EACA;EACA;EACA;;;AAGJ;EACI;EACA;EACA;EACA;EACA;EACA;;;AAGJ;EACI;EACA;EACA;EACA;EACA;EACA;;;AAGJ;EACI;EACA;EACA;EACA;EACA;;;AAGJ;EACI;EACA;;;AAGJ;EACI;EACA;EACA;EACA;EACA;;;AAGJ;EACI;EACA;EACA;EACA;EACA","file":"style.css"}
-=======
-{"version":3,"sourceRoot":"","sources":["style.scss"],"names":[],"mappings":"AAAQ;AACR;EACI;EACA;EACA;;;AAQJ;EACI;EACA,QAPO;EAQP","file":"style.css"}
->>>>>>> Stashed changes
+{"version":3,"sourceRoot":"","sources":["style.scss"],"names":[],"mappings":"AAAQ;AAIR;EACI;EACA;EACA;;;AAIJ;EACI;EACA;;;AAGJ;EACI;EACA;EACA;EACA;EACA;EACA;;;AAGJ;EACI;EACA;EACA;EACA;EACA;EACA;EACA;;;AAGJ;EACI;EACA;EACA;EACA;EACA;EACA;;;AAGJ;EAEI;EACA;EACA;EACA;EACA;EACA;;;AAIJ;EACI;EACA;;;AAGJ;EACI;EACA;EACA;EACA;EACA;;;AAGJ;EACI;EACA;EACA;EACA;EACA;;;AAGJ;EACI;EACA,QA5EO;EA6EP","file":"style.css"}
