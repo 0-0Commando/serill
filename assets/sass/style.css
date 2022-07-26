@@ -24,8 +24,8 @@
   width: 499px;
   z-index: 28;
   position: absolute;
-  left: 33%;
-  top: 28%;
+  left: 34%;
+  top: 15%;
 }
 
 .circle {
@@ -33,8 +33,8 @@
   width: 499px;
   z-index: 29;
   position: absolute;
-  left: 35%;
-  top: 23%;
+  left: 36%;
+  top: 9%;
 }
 
 .planet {
@@ -42,10 +42,10 @@
   width: 189px;
   position: absolute;
   left: 80%;
-  top: 18%;
+  top: 6%;
 }
 
 .ogrizok {
-  height: 230px;
-  width: 230px;
+  height: 180px;
+  width: 180px;
 }/*# sourceMappingURL=style.css.map */
