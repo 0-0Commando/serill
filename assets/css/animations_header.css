@@ -1,4 +1,4 @@
-.menu-element:hover a{
+.menu a:hover {
     color: #F01C61;
     cursor: pointer;
 }
